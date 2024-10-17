@@ -1,0 +1,30 @@
+.resume{
+    background-color: rgba(180, 234, 243, 0.2);
+
+}
+.but{
+    
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.btn{
+    margin-bottom: 1%;
+    margin-top: 1%;
+    background-color: rgb(0, 9, 58);
+    font-family: cursive;
+color: rgb(233, 233, 233);
+padding: 10px 30px;
+border: none;
+border-radius: 45px 45px 45px 0px;
+cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(0, 19, 80);
+    padding: 12px 34px;
+    border-radius: 45px 45px 45px 0px;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
